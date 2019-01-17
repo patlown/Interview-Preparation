@@ -1,6 +1,6 @@
-<h1>Data Strucures and Algorithm Practice Problems</h1>
+<h3>Data Strucures and Algorithm Practice Problems</h3>
 
-Linked List Questions:
+<h4> Linked List Questions:</h4>
 <ul>
   <li> 138. Copy List with Random Pointer </li>
   <li> 141. Linked List Cycle </li>
