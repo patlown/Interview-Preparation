@@ -15,6 +15,7 @@
     new young node point to its value, else create new node and add it to map.  Then,
     check if current old node's random is in the map, ..., then check if current old node's
     next is in the map, ... . When we have reached the end of the old list, we are done.
+    O(n) time, O(n) space
  */
 public class Solution {
     public RandomListNode copyRandomList(RandomListNode head) {
@@ -61,13 +62,19 @@ public class Solution {
         
     }
 }
-
+/*
+    DFS/BFS Approach: We could also treat this as a graph problem and build a copy of it in a DFS/BFS fashion.
+    In this algorithm, we would need to keep a set of visited nodes so that we can reuse them
+    if we come across the same node twice. 
+    O(N) space, O(N) time
+*/
 /*
     Iterative approach with O(1) space: This solution creates an interleaving of new nodse
     and old nodes and then fixes the the new list to be correct.  It can be broken down into
     3 parts : 1. build the interleaving list by iterating through the old nodes next pointers.
     2. iterate through list again, this time fixing the new node's to point to their random counterparts.
     3. iterate through list, decoupling clone list from old list and reconstructing the old list.
+    O(n) time, O(1) space since we don't keep a visited list
 */
 public class Solution {
     public RandomListNode copyRandomList(RandomListNode head) {
