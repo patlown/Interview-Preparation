@@ -9,6 +9,11 @@
   <li>206. Reverse Linked List</li>
   <li>25. Reverse Nodes in k-Group</li>
   <li>708. Insert into a Cyclic Sorted List</li>
+</ul>
 
+<h4> Tree Questions: </h4>
+<ul>
+  <li>226. Invert Binary Tree</li>
+  <li>104. Maximum Depth of Binary Tree</li>
 </ul>
   
