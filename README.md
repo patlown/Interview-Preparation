@@ -7,6 +7,8 @@
   <li>142. Linked List Cycle II</li>
   <li>160. Intersection of Two Linked Lists</li>
   <li>206. Reverse Linked List</li>
+  <li>25. Reverse Nodes in k-Group</li>
   <li>708. Insert into a Cyclic Sorted List</li>
+
 </ul>
   
