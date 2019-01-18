@@ -13,7 +13,8 @@
 
 <h4> Tree Questions: </h4>
 <ul>
-  <li>226. Invert Binary Tree</li>
   <li>104. Maximum Depth of Binary Tree</li>
+  <li>226. Invert Binary Tree</li>
+  
 </ul>
   
