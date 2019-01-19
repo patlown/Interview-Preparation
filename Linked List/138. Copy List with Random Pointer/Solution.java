@@ -100,11 +100,15 @@ public class Solution {
         RandomListNode clone = head.next;
         young = clone;
         old = head;
-        while(young.next != null || old.next != null){
+        //young always stays ahead of old so we can safely only rely on the condition of young being null.
+        while(young != null){
             old.next = old.next.next;
-            if(young.next != null) young.next = young.next.next;
+            old = old.next;
+            if(young.next != null){
+                young.next = young.next.next;
+            }
+            young = young.next;
         }
-        
         return clone;
     }
 }
