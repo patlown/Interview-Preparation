@@ -14,9 +14,11 @@ class Node {
 */
 
 /*
-    This one had some really hard to understand test cases because of the way the list is represented.  It can be broken down into 4 different cases, the current node is smaller than the
-    value and the next node is smaller than the value or the current node is larger than the value and the next node is larger, this means we are either moving on through the lsit or
-    we we may be at the end, check whether the next is smaller than the current if so, our node needs to be inserted here. Else, we need to find the correct spot to put the node where
+    This one had some really hard to understand test cases because of the way the list is represented.  
+    It can be broken down into 4 different cases, the current node is smaller than the
+    value and the next node is smaller than the value or the current node is larger than the value and the next node is larger, 
+    this means we are either moving on through the list or we may be at the end, check whether the next is smaller than the current if so, 
+    our node needs to be inserted here. Else, we need to find the correct spot to put the node where
     it fits nicely between curr and next.  The edge cases, are empty list or one node
 
 */
