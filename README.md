@@ -20,6 +20,8 @@
 <h4>Tree Questions: </h4>
 <ul>
   <li>104. Maximum Depth of Binary Tree</li>
+  <li>105. Construct Binary Tree from Preorder and Inorder</li>
+  <li>106. Construct Binary Tree from Inorder and Postorder </li>
   <li>226. Invert Binary Tree</li>
   <li>617. Merge Two Binary Trees</li>
   <li>173. Binary Search Tree Iterator</li>
