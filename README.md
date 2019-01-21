@@ -20,6 +20,7 @@
 <h4>Tree Questions: </h4>
 <ul>
   <li>96. Unique Binary Search Trees</li>
+  <li>98. Validate Binary Search Tree</li>
   <li>104. Maximum Depth of Binary Tree</li>
   <li>105. Construct Binary Tree from Preorder and Inorder</li>
   <li>106. Construct Binary Tree from Inorder and Postorder </li>
