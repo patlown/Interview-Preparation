@@ -19,7 +19,11 @@
 
 <h4>Tree Questions: </h4>
 <ul>
-  <li><strong>TODO:</strong> 95. Unique Binary Search Trees II</li>
+  <li><strong>TODO:</strong> 
+    <ul>
+      <li>95. Unique Binary Search Trees II</li>
+    </ul>
+  </li>
   <li>96. Unique Binary Search Trees</li>
   <li>98. Validate Binary Search Tree</li>
   <li>104. Maximum Depth of Binary Tree</li>
@@ -33,6 +37,15 @@
   
 <h4>Graph Questions: </h4>
 <ul>
+  <li><strong>TODO:</strong> 
+    <ul>
+      <li>684. Redundant Connection</li>
+      <li>685. Redundant Connection II</li>
+      <li>399. Evaluate Division</li>
+      <li>133. Clone Graph</li>
+    </ul>
+  </li>
   <li>489. Robot Room Cleaner</li>
+  <li>207. Course Schedule</li>
 
 </ul>
