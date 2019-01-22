@@ -19,7 +19,7 @@
 
 <h4>Tree Questions: </h4>
 <ul>
-  <li><strong>TODO:</strong>95. Unique Binary Search Trees II</li>
+  <li><strong>TODO:</strong> 95. Unique Binary Search Trees II</li>
   <li>96. Unique Binary Search Trees</li>
   <li>98. Validate Binary Search Tree</li>
   <li>104. Maximum Depth of Binary Tree</li>
