@@ -42,9 +42,9 @@
       <li>684. Redundant Connection</li>
       <li>685. Redundant Connection II</li>
       <li>399. Evaluate Division</li>
-      <li>133. Clone Graph</li>
     </ul>
   </li>
+  <li>133. Clone Graph</li>
   <li>489. Robot Room Cleaner</li>
   <li>207. Course Schedule</li>
   <li>210. Course Schedule II</li>
