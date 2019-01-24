@@ -41,7 +41,6 @@
     <ul>
       <li>684. Redundant Connection</li>
       <li>685. Redundant Connection II</li>
-      <li>399. Evaluate Division</li>
     </ul>
   </li>
   <li>399. Evaluate Division</li>
