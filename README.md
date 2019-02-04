@@ -55,6 +55,7 @@
 
 <h4>Dynamic Programming Questions: </h4>
 <ul>
+  <li>64. Minimum Path Sum</li>
   <li>418. Sentence Screen Fitting</li>
   <li>91. Decode Ways</li>
   <li>139. Word Break</li>
