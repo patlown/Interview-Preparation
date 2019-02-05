@@ -55,6 +55,9 @@
 
 <h4>Dynamic Programming Questions: </h4>
 <ul>
+  <li>198. House Robber</li>
+  <li>213. House Robber II</li>
+  <li>174. Dungeon Game</li>
   <li>64. Minimum Path Sum</li>
   <li>418. Sentence Screen Fitting</li>
   <li>91. Decode Ways</li>
