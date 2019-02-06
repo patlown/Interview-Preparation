@@ -56,6 +56,7 @@
 <h4>Dynamic Programming Questions: </h4>
 <ul>
   <li>84. Largest Rectangle in Histogram</li>
+  <li>85. Maximal Rectangle</li>
   <li>338. Counting Bits</li>
   <li>238. Product of Array Except Self</li>
   <li>198. House Robber</li>
