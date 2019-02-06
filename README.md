@@ -55,6 +55,8 @@
 
 <h4>Dynamic Programming Questions: </h4>
 <ul>
+  <li>338. Counting Bits</li>
+  <li>238. Product of Array Except Self</li>
   <li>198. House Robber</li>
   <li>213. House Robber II</li>
   <li>174. Dungeon Game</li>
