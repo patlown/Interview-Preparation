@@ -33,7 +33,8 @@
   <li>285. Inorder Successor in BST</li>
   <li>617. Merge Two Binary Trees</li>
   <li>173. Binary Search Tree Iterator</li> 
-  <li>235. Lowest Common Ancestor of a Binary Search Tree</li>  
+  <li>235. Lowest Common Ancestor of a Binary Search Tree</li> 
+  <li>236. Lowest Common Ancestor of a Binary Tree</li>  
 </ul>
   
 <h4>Graph Questions: </h4>
