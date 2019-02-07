@@ -62,6 +62,7 @@
       <li>221. Maximal Square</li>
     </ul>
   </li>
+  <li>518. Coin Change 2</li>
   <li>84. Largest Rectangle in Histogram</li>
   <li>85. Maximal Rectangle</li>
   <li>338. Counting Bits</li>
