@@ -101,9 +101,9 @@ V -- How to traverse (or search) the search space efficiently
 Up to this point, we know the search space, know how to construct the candidate solution and how to verify it by counting, we still 
 need one last piece for the puzzle: how to traverse the search space.
 
-Of course we can do the naive linear walk by trying each integer from 0 up to d and choose the first integer num such that count(num) >= K. 
-The time complexity will be O(nd). However, given that d can be much larger than n, this algorithm can be much worse than 
-the naive O(n^2) solution mentioned before.
+Of course we can do the naive linear walk by trying each integer from 0 up to d and choose the first integer num such that 
+count(num) >= K. The time complexity will be O(nd). However, given that d can be much larger than n, this algorithm can be 
+much worse than the naive O(n^2) solution mentioned before.
 
 The key observation here is that the candidate solutions are sorted naturally in ascending order, so a binary search is possible. 
 Another fact is the non-decreasing property of the count function: given two integers num1 and num2 such that num1 < num2, 
